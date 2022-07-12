@@ -5,4 +5,4 @@ Entity Component System (ECS) is a way of writing code that provides high perfor
 - Component ("Data", no logic or behavior, belongs to an entity like MonoBehaviours belong to a GameObject);   
 - System ("Behavior", not attached to any entity, queries only data that are needed).   
 
-Updated to 2019.4.38f1
+Updated to 2019.4.40f1
